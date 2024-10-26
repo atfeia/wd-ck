@@ -1,12 +1,6 @@
 # [am-cf-tunnel](https://github.com/amclubs/am-cf-tunnel)
 这是一个基于 Cloudflare Workers 和 Pages平台的脚本，在原版的基础上修改了显示 VLESS 配置信息转换为订阅内容。使用该脚本，你可以方便地将 VLESS、trojan 配置信息使用在线配置转换到 Clash、 Singbox 、Quantumult X等工具中订阅使用。
 
-#
-▶️ **新人[YouTube](https://youtube.com/@AM_CLUB)** 需要您的支持，请务必帮我**点赞**、**关注**、**打开小铃铛**，***十分感谢！！！*** ✅
-</br>🎁 不要只是下载或Fork。请 **follow** 我的GitHub、给我所有项目一个 **Star** 星星（拜托了）！你的支持是我不断前进的动力！ 💖
-</br>✅**解锁更多技术请点击进入 YouTube频道[【@AM_CLUB】](https://youtube.com/@AM_CLUB) 、[【个人博客】](https://am.809098.xyz)** 、TG群[【AM科技 | 分享交流群】](https://t.me/AM_CLUBS) 、获取免费节点[【进群发送关键字: 订阅】](https://t.me/AM_CLUBS)
-
-
 # Cloudflare Workers 和 Pages 生成VLESS节点,实现订阅连接可以一键订阅节点
 - VLESS免费节点部署视频教程：[点击进入观看](https://youtu.be/dPH63nITA0M) 
 - Trojan免费节点部署视频教程：[点击进入观看](https://youtu.be/uh27CVVi6HA) 
